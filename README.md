@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ajay81504
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👨‍💼 About Me
+Business Analyst | Data Analyst | AI Enthusiast | Problem Solver
 
-<!---
-ajay81504/ajay81504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a results-driven Business Analyst at CMED Health Ltd with a strong foundation in Computer Science & Engineering. I specialize in transforming complex business requirements into actionable insights using data analytics, dashboards, and automation.
+
+My expertise spans Power BI, SQL, Python, and Excel, enabling me to bridge the gap between technical solutions and business needs. I'm passionate about leveraging data-driven decision-making and AI technologies to optimize processes and unlock business value.
