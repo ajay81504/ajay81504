@@ -15,31 +15,64 @@
 I'm a results-driven Business Analyst at Bharti Airtel Ltd with a strong foundation in Computer Science & Engineering. I specialize in transforming complex business requirements into actionable insights using data analytics, dashboards, and automation.
 
 My expertise spans Power BI, SQL, Python, and Excel, enabling me to bridge the gap between technical solutions and business needs. I'm passionate about leveraging data-driven decision-making and AI technologies to optimize processes and unlock business value.
+## 💡 What I Do
 
-##💡 What I Do
-✨ Data Analytics & BI Solutions — Designing and building dashboards that reveal actionable insights
-📊 Business Intelligence — Translating data into strategic recommendations
-🔍 Process Optimization — Identifying bottlenecks and improving operational efficiency
-🤖 AI & Machine Learning — Exploring applications of AI in solving real-world problems
-📈 Data Visualization — Creating compelling visual narratives from complex datasets
+✨ **✨ Data Analytics & BI Solutions** — Designing and building dashboards that reveal actionable insights
+📊 **Business Intelligence** — Translating data into strategic recommendations
+🔍 **Process Optimization**— Identifying bottlenecks and improving operational efficiency
+🤖 **AI & Machine Learning**— Exploring applications of AI in solving real-world problems
+📈 **Data Visualization** — Creating compelling visual narratives from complex datasets
 
-**🛠️ Technical Arsenal**
-Programming Languages
-Python SQL Java C++ C
+---
 
-Analytics & BI Tools
-Power BI Tableau Excel Power Query
+## 🛠 Technical Arsenal
 
-Databases
-MySQL PostgreSQL MS SQL Server
+### Programming Languages
+<p align="left">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="SQL">
+</p>
 
-Web Development
-HTML CSS
+### Analytics & BI Tools
+<p align="left">
+  <img src="https://shields.io" alt="Power BI">
+  <img src="https://shields.io" alt="Tableau">
+  <img src="https://shields.io" alt="Excel">
+</p>
 
-🎓 Education & Professional Background
-🎓 B.Tec. in Computer Science & Engineering
-Maharashi Dayanand University (MDU) — 2025
+### Databases
+<p align="left">
+  <img src="https://shields.io" alt="MySQL">
+</p>
 
-💼 Current Role
-Business Analyst at Bharti Airtel Ltd
+### Web Development
+<p align="left">
+  <img src="https://shields.io" alt="HTML">
+  <img src="https://shields.io" alt="CSS">
+</p>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%">
+</p>
+
+---
+
+## 🎓 Education & Professional Background
+
+🎓 **🎓 B.tech. in Computer Science & Engineering**
+*Maharashi Dayanand University* — 2025
+
+💼 **Current Role**
+**Business Analyst** at *Bharti Airtel Ltd*
 Building dashboards, analyzing business metrics, and driving data-informed decision-making in Telecom.
+
+🔬 **Research**
+**Mango Leaf Disease Detection using CNN**
+Developed a deep learning model for agricultural classification tasks.
+
+🌐 **International Experience**
+**[Certification/Experience]**
+
