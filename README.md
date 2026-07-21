@@ -76,3 +76,23 @@ Developed a deep learning model for agricultural classification tasks.
 🌐 **International Experience**
 **[Certification/Experience]**
 
+## 🎯 What I'm Passionate About
+
+- 📊 **Data-Driven Decision Making** — Using analytics to solve real-world problems
+- 🤖 **AI & Machine Learning** — Exploring cutting-edge technologies
+- 📈 **Business Growth** — Helping organizations optimize operations and maximize ROI
+- 🧠 **Continuous Learning** — Staying updated with industry trends and best practices
+- 🤝 **Collaboration** — Working effectively with cross-functional teams
+
+---
+
+## 💼 Available for Opportunities
+
+I'm actively open to:
+
+- 🔍 **Data Analyst** positions
+- 📊 **Business Intelligence** roles
+- 💡 **Analytics Consulting** projects
+- 🚀 **Freelance Projects** on Fiverr
+
+
